@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Airtable",
+    "file": "logos/airtable.png",
+    "domain": "airtable.com",
+    "source": "https://www.google.com/s2/favicons?domain=airtable.com&sz=128"
+  },
+  {
+    "name": "Amplitude",
+    "file": "logos/amplitude.png",
+    "domain": "amplitude.com",
+    "source": "https://www.google.com/s2/favicons?domain=amplitude.com&sz=128"
+  },
+  {
+    "name": "Appwrite",
+    "file": "logos/appwrite.png",
+    "domain": "appwrite.io",
+    "source": "https://www.google.com/s2/favicons?domain=appwrite.io&sz=128"
+  },
+  {
+    "name": "Asana",
+    "file": "logos/asana.png",
+    "domain": "asana.com",
+    "source": "https://www.google.com/s2/favicons?domain=asana.com&sz=128"
+  },
+  {
+    "name": "Auth0",
+    "file": "logos/auth0.png",
+    "domain": "auth0.com",
+    "source": "https://www.google.com/s2/favicons?domain=auth0.com&sz=128"
+  },
+  {
+    "name": "AWS",
+    "file": "logos/aws.png",
+    "domain": "aws.amazon.com",
+    "source": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128"
+  },
+  {
+    "name": "Axiom",
+    "file": "logos/axiom.png",
+    "domain": "axiom.co",
+    "source": "https://www.google.com/s2/favicons?domain=axiom.co&sz=128"
+  },
+  {
+    "name": "Backblaze B2",
+    "file": "logos/backblaze-b2.png",
+    "domain": "backblaze.com",
+    "source": "https://www.google.com/s2/favicons?domain=backblaze.com&sz=128"
+  },
+  {
+    "name": "Better Stack",
+    "file": "logos/better-stack.png",
+    "domain": "betterstack.com",
+    "source": "https://www.google.com/s2/favicons?domain=betterstack.com&sz=128"
+  },
+  {
+    "name": "Brevo",
+    "file": "logos/brevo.png",
+    "domain": "brevo.com",
+    "source": "https://www.google.com/s2/favicons?domain=brevo.com&sz=128"
+  },
+  {
+    "name": "Bubble",
+    "file": "logos/bubble.png",
+    "domain": "bubble.io",
+    "source": "https://www.google.com/s2/favicons?domain=bubble.io&sz=128"
+  },
+  {
+    "name": "Buffer",
+    "file": "logos/buffer.png",
+    "domain": "buffer.com",
+    "source": "https://www.google.com/s2/favicons?domain=buffer.com&sz=128"
+  },
+  {
+    "name": "Canva",
+    "file": "logos/canva.png",
+    "domain": "canva.com",
+    "source": "https://www.google.com/s2/favicons?domain=canva.com&sz=128"
+  },
+  {
+    "name": "Clerk",
+    "file": "logos/clerk.png",
+    "domain": "clerk.com",
+    "source": "https://www.google.com/s2/favicons?domain=clerk.com&sz=128"
+  },
+  {
+    "name": "ClickUp",
+    "file": "logos/clickup.png",
+    "domain": "clickup.com",
+    "source": "https://www.google.com/s2/favicons?domain=clickup.com&sz=128"
+  },
+  {
+    "name": "Cloudflare",
+    "file": "logos/cloudflare.png",
+    "domain": "cloudflare.com",
+    "source": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128"
+  },
+  {
+    "name": "Cloudflare R2",
+    "file": "logos/cloudflare-r2.png",
+    "domain": "cloudflare.com",
+    "source": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128"
+  },
+  {
+    "name": "Cloudflare Zero Trust",
+    "file": "logos/cloudflare-zero-trust.png",
+    "domain": "cloudflare.com",
+    "source": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128"
+  },
+  {
+    "name": "Cloudinary",
+    "file": "logos/cloudinary.png",
+    "domain": "cloudinary.com",
+    "source": "https://www.google.com/s2/favicons?domain=cloudinary.com&sz=128"
+  },
+  {
+    "name": "Codecov",
+    "file": "logos/codecov.png",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@13/icons/codecov.svg",
+    "provider": "Simple Icons v13"
+  },
+  {
+    "name": "Convex",
+    "file": "logos/convex.png",
+    "domain": "convex.dev",
+    "source": "https://www.google.com/s2/favicons?domain=convex.dev&sz=128"
+  },
+  {
+    "name": "Datadog",
+    "file": "logos/datadog.png",
+    "domain": "datadoghq.com",
+    "source": "https://www.google.com/s2/favicons?domain=datadoghq.com&sz=128"
+  },
+  {
+    "name": "Deno Deploy",
+    "file": "logos/deno-deploy.png",
+    "domain": "deno.com",
+    "source": "https://www.google.com/s2/favicons?domain=deno.com&sz=128"
+  },
+  {
+    "name": "Discord",
+    "file": "logos/discord.png",
+    "domain": "discord.com",
+    "source": "https://www.google.com/s2/favicons?domain=discord.com&sz=128"
+  },
+  {
+    "name": "ElevenLabs",
+    "file": "logos/elevenlabs.png",
+    "domain": "elevenlabs.io",
+    "source": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128"
+  },
+  {
+    "name": "Excalidraw",
+    "file": "logos/excalidraw.png",
+    "domain": "plus.excalidraw.com",
+    "source": "https://www.google.com/s2/favicons?domain=plus.excalidraw.com&sz=128"
+  },
+  {
+    "name": "Figma",
+    "file": "logos/figma.png",
+    "domain": "figma.com",
+    "source": "https://www.google.com/s2/favicons?domain=figma.com&sz=128"
+  },
+  {
+    "name": "Firebase",
+    "file": "logos/firebase.png",
+    "domain": "firebase.google.com",
+    "source": "https://www.google.com/s2/favicons?domain=firebase.google.com&sz=128"
+  },
+  {
+    "name": "Fly.io",
+    "file": "logos/fly-io.png",
+    "domain": "fly.io",
+    "source": "https://www.google.com/s2/favicons?domain=fly.io&sz=128"
+  },
+  {
+    "name": "Framer",
+    "file": "logos/framer.png",
+    "domain": "framer.com",
+    "source": "https://www.google.com/s2/favicons?domain=framer.com&sz=128"
+  },
+  {
+    "name": "GitHub",
+    "file": "logos/github.png",
+    "domain": "github.com",
+    "source": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+  },
+  {
+    "name": "GitHub Codespaces",
+    "file": "logos/github-codespaces.png",
+    "domain": "github.com",
+    "source": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+  },
+  {
+    "name": "GitHub Pages",
+    "file": "logos/github-pages.png",
+    "domain": "github.com",
+    "source": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+  },
+  {
+    "name": "GitLab",
+    "file": "logos/gitlab.png",
+    "domain": "gitlab.com",
+    "source": "https://www.google.com/s2/favicons?domain=gitlab.com&sz=128"
+  },
+  {
+    "name": "Gitpod",
+    "file": "logos/gitpod.png",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@13/icons/gitpod.svg",
+    "provider": "Simple Icons v13"
+  },
+  {
+    "name": "Glide",
+    "file": "logos/glide.png",
+    "domain": "glideapps.com",
+    "source": "https://www.google.com/s2/favicons?domain=glideapps.com&sz=128"
+  },
+  {
+    "name": "Google AI Studio",
+    "file": "logos/google-ai-studio.png",
+    "domain": "aistudio.google.com",
+    "source": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=128"
+  },
+  {
+    "name": "Google Cloud",
+    "file": "logos/google-cloud.png",
+    "domain": "cloud.google.com",
+    "source": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=128"
+  },
+  {
+    "name": "Google Forms",
+    "file": "logos/google-forms.png",
+    "domain": "docs.google.com",
+    "source": "https://www.google.com/s2/favicons?domain=docs.google.com&sz=128"
+  },
+  {
+    "name": "Grafana Cloud",
+    "file": "logos/grafana-cloud.png",
+    "domain": "grafana.com",
+    "source": "https://www.google.com/s2/favicons?domain=grafana.com&sz=128"
+  },
+  {
+    "name": "GroqCloud",
+    "file": "logos/groqcloud.png",
+    "domain": "groq.com",
+    "source": "https://www.google.com/s2/favicons?domain=groq.com&sz=128"
+  },
+  {
+    "name": "Hotjar",
+    "file": "logos/hotjar.png",
+    "domain": "hotjar.com",
+    "source": "https://www.google.com/s2/favicons?domain=hotjar.com&sz=128"
+  },
+  {
+    "name": "HubSpot",
+    "file": "logos/hubspot.png",
+    "domain": "hubspot.com",
+    "source": "https://www.google.com/s2/favicons?domain=hubspot.com&sz=128"
+  },
+  {
+    "name": "Hugging Face",
+    "file": "logos/hugging-face.png",
+    "domain": "huggingface.co",
+    "source": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128"
+  },
+  {
+    "name": "ImageKit",
+    "file": "logos/imagekit.png",
+    "domain": "imagekit.io",
+    "source": "https://www.google.com/s2/favicons?domain=imagekit.io&sz=128"
+  },
+  {
+    "name": "Jotform",
+    "file": "logos/jotform.png",
+    "domain": "jotform.com",
+    "source": "https://www.google.com/s2/favicons?domain=jotform.com&sz=128"
+  },
+  {
+    "name": "Koyeb",
+    "file": "logos/koyeb.png",
+    "domain": "koyeb.com",
+    "source": "https://www.google.com/s2/favicons?domain=koyeb.com&sz=128"
+  },
+  {
+    "name": "Lemon Squeezy",
+    "file": "logos/lemon-squeezy.png",
+    "domain": "lemonsqueezy.com",
+    "source": "https://www.google.com/s2/favicons?domain=lemonsqueezy.com&sz=128"
+  },
+  {
+    "name": "Linear",
+    "file": "logos/linear.png",
+    "domain": "linear.app",
+    "source": "https://www.google.com/s2/favicons?domain=linear.app&sz=128"
+  },
+  {
+    "name": "Loom",
+    "file": "logos/loom.png",
+    "domain": "loom.com",
+    "source": "https://www.google.com/s2/favicons?domain=loom.com&sz=128"
+  },
+  {
+    "name": "Mailchimp",
+    "file": "logos/mailchimp.png",
+    "domain": "mailchimp.com",
+    "source": "https://www.google.com/s2/favicons?domain=mailchimp.com&sz=128"
+  },
+  {
+    "name": "Mailjet",
+    "file": "logos/mailjet.png",
+    "domain": "mailjet.com",
+    "source": "https://www.google.com/s2/favicons?domain=mailjet.com&sz=128"
+  },
+  {
+    "name": "Metricool",
+    "file": "logos/metricool.png",
+    "domain": "metricool.com",
+    "source": "https://www.google.com/s2/favicons?domain=metricool.com&sz=128"
+  },
+  {
+    "name": "Microsoft Azure",
+    "file": "logos/microsoft-azure.png",
+    "domain": "azure.microsoft.com",
+    "source": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=128"
+  },
+  {
+    "name": "Microsoft Clarity",
+    "file": "logos/microsoft-clarity.png",
+    "domain": "clarity.microsoft.com",
+    "source": "https://www.google.com/s2/favicons?domain=clarity.microsoft.com&sz=128"
+  },
+  {
+    "name": "Miro",
+    "file": "logos/miro.png",
+    "domain": "miro.com",
+    "source": "https://www.google.com/s2/favicons?domain=miro.com&sz=128"
+  },
+  {
+    "name": "Mistral AI",
+    "file": "logos/mistral-ai.png",
+    "domain": "mistral.ai",
+    "source": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=128"
+  },
+  {
+    "name": "Mixpanel",
+    "file": "logos/mixpanel.png",
+    "domain": "mixpanel.com",
+    "source": "https://www.google.com/s2/favicons?domain=mixpanel.com&sz=128"
+  },
+  {
+    "name": "MongoDB Atlas",
+    "file": "logos/mongodb-atlas.png",
+    "domain": "mongodb.com",
+    "source": "https://www.google.com/s2/favicons?domain=mongodb.com&sz=128"
+  },
+  {
+    "name": "Neon",
+    "file": "logos/neon.png",
+    "domain": "neon.com",
+    "source": "https://www.google.com/s2/favicons?domain=neon.com&sz=128"
+  },
+  {
+    "name": "Netlify",
+    "file": "logos/netlify.png",
+    "domain": "netlify.com",
+    "source": "https://www.google.com/s2/favicons?domain=netlify.com&sz=128"
+  },
+  {
+    "name": "Notion",
+    "file": "logos/notion.png",
+    "domain": "notion.com",
+    "source": "https://www.google.com/s2/favicons?domain=notion.com&sz=128"
+  },
+  {
+    "name": "OpenRouter",
+    "file": "logos/openrouter.png",
+    "domain": "openrouter.ai",
+    "source": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=128"
+  },
+  {
+    "name": "Oracle Cloud",
+    "file": "logos/oracle-cloud.png",
+    "domain": "oracle.com",
+    "source": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+  },
+  {
+    "name": "Penpot",
+    "file": "logos/penpot.png",
+    "domain": "penpot.app",
+    "source": "https://www.google.com/s2/favicons?domain=penpot.app&sz=128"
+  },
+  {
+    "name": "PlanetScale",
+    "file": "logos/planetscale.png",
+    "domain": "planetscale.com",
+    "source": "https://www.google.com/s2/favicons?domain=planetscale.com&sz=128"
+  },
+  {
+    "name": "Plausible",
+    "file": "logos/plausible.png",
+    "domain": "plausible.io",
+    "source": "https://www.google.com/s2/favicons?domain=plausible.io&sz=128"
+  },
+  {
+    "name": "PocketBase",
+    "file": "logos/pocketbase.png",
+    "domain": "pocketbase.io",
+    "source": "https://www.google.com/s2/favicons?domain=pocketbase.io&sz=128"
+  },
+  {
+    "name": "PostHog",
+    "file": "logos/posthog.png",
+    "domain": "posthog.com",
+    "source": "https://www.google.com/s2/favicons?domain=posthog.com&sz=128"
+  },
+  {
+    "name": "Prisma",
+    "file": "logos/prisma.png",
+    "domain": "prisma.io",
+    "source": "https://www.google.com/s2/favicons?domain=prisma.io&sz=128"
+  },
+  {
+    "name": "Render",
+    "file": "logos/render.png",
+    "domain": "render.com",
+    "source": "https://www.google.com/s2/favicons?domain=render.com&sz=128"
+  },
+  {
+    "name": "Resend",
+    "file": "logos/resend.png",
+    "domain": "resend.com",
+    "source": "https://www.google.com/s2/favicons?domain=resend.com&sz=128"
+  },
+  {
+    "name": "S3Drive",
+    "file": "logos/s3drive.png",
+    "domain": "s3drive.app",
+    "source": "https://www.google.com/s2/favicons?domain=s3drive.app&sz=128"
+  },
+  {
+    "name": "SendGrid",
+    "file": "logos/sendgrid.png",
+    "domain": "sendgrid.com",
+    "source": "https://www.google.com/s2/favicons?domain=sendgrid.com&sz=128"
+  },
+  {
+    "name": "Sentry",
+    "file": "logos/sentry.png",
+    "domain": "sentry.io",
+    "source": "https://www.google.com/s2/favicons?domain=sentry.io&sz=128"
+  },
+  {
+    "name": "Slack",
+    "file": "logos/slack.png",
+    "domain": "slack.com",
+    "source": "https://www.google.com/s2/favicons?domain=slack.com&sz=128"
+  },
+  {
+    "name": "Snyk",
+    "file": "logos/snyk.png",
+    "domain": "snyk.io",
+    "source": "https://www.google.com/s2/favicons?domain=snyk.io&sz=128"
+  },
+  {
+    "name": "Softr",
+    "file": "logos/softr.png",
+    "domain": "softr.io",
+    "source": "https://www.google.com/s2/favicons?domain=softr.io&sz=128"
+  },
+  {
+    "name": "SonarQube",
+    "file": "logos/sonarqube.png",
+    "domain": "sonarsource.com",
+    "source": "https://www.google.com/s2/favicons?domain=sonarsource.com&sz=128"
+  },
+  {
+    "name": "Sourcery",
+    "file": "logos/sourcery.png",
+    "domain": "sourcery.ai",
+    "source": "https://www.google.com/s2/favicons?domain=sourcery.ai&sz=128"
+  },
+  {
+    "name": "Stripe",
+    "file": "logos/stripe.png",
+    "domain": "stripe.com",
+    "source": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128"
+  },
+  {
+    "name": "Supabase",
+    "file": "logos/supabase.png",
+    "domain": "supabase.com",
+    "source": "https://www.google.com/s2/favicons?domain=supabase.com&sz=128"
+  },
+  {
+    "name": "Tailscale",
+    "file": "logos/tailscale.png",
+    "domain": "tailscale.com",
+    "source": "https://www.google.com/s2/favicons?domain=tailscale.com&sz=128"
+  },
+  {
+    "name": "Tally",
+    "file": "logos/tally.png",
+    "domain": "tally.so",
+    "source": "https://www.google.com/s2/favicons?domain=tally.so&sz=128"
+  },
+  {
+    "name": "Trello",
+    "file": "logos/trello.png",
+    "domain": "trello.com",
+    "source": "https://www.google.com/s2/favicons?domain=trello.com&sz=128"
+  },
+  {
+    "name": "Turso",
+    "file": "logos/turso.png",
+    "domain": "turso.tech",
+    "source": "https://www.google.com/s2/favicons?domain=turso.tech&sz=128"
+  },
+  {
+    "name": "Typeform",
+    "file": "logos/typeform.png",
+    "domain": "typeform.com",
+    "source": "https://www.google.com/s2/favicons?domain=typeform.com&sz=128"
+  },
+  {
+    "name": "Umami",
+    "file": "logos/umami.png",
+    "domain": "umami.is",
+    "source": "https://www.google.com/s2/favicons?domain=umami.is&sz=128"
+  },
+  {
+    "name": "Uploadcare",
+    "file": "logos/uploadcare.png",
+    "domain": "uploadcare.com",
+    "source": "https://www.google.com/s2/favicons?domain=uploadcare.com&sz=128"
+  },
+  {
+    "name": "Upstash",
+    "file": "logos/upstash.png",
+    "domain": "upstash.com",
+    "source": "https://www.google.com/s2/favicons?domain=upstash.com&sz=128"
+  },
+  {
+    "name": "UptimeRobot",
+    "file": "logos/uptimerobot.png",
+    "domain": "uptimerobot.com",
+    "source": "https://www.google.com/s2/favicons?domain=uptimerobot.com&sz=128"
+  },
+  {
+    "name": "Vercel",
+    "file": "logos/vercel.png",
+    "domain": "vercel.com",
+    "source": "https://www.google.com/s2/favicons?domain=vercel.com&sz=128"
+  },
+  {
+    "name": "Webflow",
+    "file": "logos/webflow.png",
+    "domain": "webflow.com",
+    "source": "https://www.google.com/s2/favicons?domain=webflow.com&sz=128"
+  },
+  {
+    "name": "WorkOS AuthKit",
+    "file": "logos/workos-authkit.png",
+    "domain": "workos.com",
+    "source": "https://www.google.com/s2/favicons?domain=workos.com&sz=128"
+  },
+  {
+    "name": "Zoho CRM",
+    "file": "logos/zoho-crm.png",
+    "domain": "zoho.com",
+    "source": "https://www.google.com/s2/favicons?domain=zoho.com&sz=128"
+  },
+  {
+    "name": "Zoom",
+    "file": "logos/zoom.png",
+    "domain": "zoom.com",
+    "source": "https://www.google.com/s2/favicons?domain=zoom.com&sz=128"
+  }
+]
