@@ -6,7 +6,13 @@ A static free-tier directory with search, category and offer filters, editorial 
 
 Run `python3 -m http.server 4173 --directory dist`, then open http://localhost:4173.
 
-## Source
+## Hosting
+
+GitHub Pages publishes `dist/` automatically whenever `main` is pushed, through `.github/workflows/pages.yml`. The published address is https://vincedprime.github.io/generous/.
+
+Git identity is configured locally as `vincedprime <vinayparida099@gmail.com>`.
+
+## Files
 
 - `dist/index.html`: page structure and metadata.
 - `dist/styles.css`: responsive styles.
