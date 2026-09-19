@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore and compare free software tiers. Browse by category, compare editorial scores, and find the limits before you sign up.">
+  <title>Generous — The free tier index</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232846db'/%3E%3Cpath d='M23 10a9 9 0 1 0 1 11v-6h-9v4h5v1a5 5 0 1 1 0-8' fill='none' stroke='white' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css"><script src="data.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="./" aria-label="Generous home"><span class="brand-icon">g.</span>generous<span class="brand-period">/</span></a><span class="top-note">THE FREE TIER INDEX</span><a href="#methodology" class="method-link">How we rank <span aria-hidden="true">↗</span></a></header>
+  <main>
+    <section class="intro"><div><div class="eyebrow">GOOD SOFTWARE. ROOM TO GROW.</div><h1>A little less spend.<br>A lot more possibility.</h1><p>Discover the software that gives you more for free.<br class="desktop"> Compare the limits. Find your next favorite.</p></div><div class="index-stamp"><span class="stamp-number" id="total">96</span><span>products in the index</span><span class="stamp-line">Independent · Across every category</span></div></section>
+    <div class="directory-layout">
+      <aside aria-label="Filter by category"><div class="aside-label">EXPLORE CATEGORIES</div><nav id="categories"></nav></aside>
+      <section class="directory" aria-label="Free tier directory">
+        <div class="controls"><label class="search"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="Find a product, feature, or category…" aria-label="Search products"></label><label class="sort-label"><span>Sort by</span><select id="sort" aria-label="Sort products"><option value="highest">Highest score</option><option value="lowest">Lowest score</option><option value="name">Name: A–Z</option><option value="category">Category: A–Z</option></select></label></div>
+        <div class="result-heading"><div><h2 id="category-title">All categories</h2><span id="count" aria-live="polite"></span></div><label class="type-label"><span>Offer</span><select id="type" aria-label="Filter offer type"><option value="all">All offers</option><option value="hosted">Hosted free tiers</option><option value="selfhost">Self-hosted</option><option value="usage">Usage-priced</option></select></label></div>
+        <div class="draft-note"><span class="note-icon" aria-hidden="true">i</span><p>Early edition. Scores are editorial estimates; plan details still need a full verification pass. Always check the official terms.</p></div>
+        <div class="list-head" aria-hidden="true"><span>PRODUCT / FREE ALLOWANCE</span><span>EDITORIAL SCORE</span></div>
+        <div id="results"></div><div id="empty" hidden><h3>No matches this time.</h3><p>Try another keyword or explore all categories.</p><button id="reset">Reset filters</button></div>
+      </section>
+    </div>
+    <section id="methodology" class="methodology"><div><div class="eyebrow">A NOTE ON THE NUMBERS</div><h2>Generosity, explained.</h2></div><div><p>Each score averages five equally weighted estimates: permanence, usable capacity, feature access, commercial suitability, and ease of starting without a card. Each dimension is scored from 0 to 4, then scaled to 100.</p><p>These are draft editorial scores from the initial catalog, not verified measurements or product-quality ratings. Scores are most useful within a category. Equal scores share a rank. Self-hosted tools require your own hosting; usage-priced services charge transaction or usage fees. Trial-only entries are omitted.</p><p class="method-meta">Catalog compiled September 15, 2026 · Official sources linked for every entry</p></div></section>
+  </main>
+  <footer><a class="brand" href="./">generous<span class="brand-period">/</span></a><span>More room to make things.</span><a href="#">Back to top ↑</a></footer>
+  <noscript><p class="noscript">Enable JavaScript to browse, filter, and sort this static directory.</p></noscript>
+</body></html>
