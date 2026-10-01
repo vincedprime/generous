@@ -72,6 +72,12 @@
     "source": "https://www.google.com/s2/favicons?domain=buffer.com&sz=128"
   },
   {
+    "name": "Cal.com",
+    "file": "logos/cal-com.png",
+    "domain": "cal.com",
+    "source": "https://www.google.com/s2/favicons?domain=cal.com&sz=128"
+  },
+  {
     "name": "Canva",
     "file": "logos/canva.png",
     "domain": "canva.com",

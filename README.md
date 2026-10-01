@@ -17,7 +17,7 @@ Git identity is configured locally as `vincedprime <vinayparida099@gmail.com>`.
 - `dist/index.html`: page structure and metadata.
 - `dist/styles.css`: responsive styles.
 - `dist/app.js`: rendering, filtering, sorting and score breakdowns.
-- `dist/data.js`: 99 catalog records; the three marked Exclude are hidden.
+- `dist/data.js`: 100 catalog records; the three marked Exclude are hidden.
 - `dist/logos/`: local company website icons, with provenance in `sources.json`.
 - `scripts/fetch-logos.mjs`: refreshes icons using Google's website favicon service (requires Node 22+ and network access).
 - `.openai/hosting.json`: existing Sites project identity and static output folder.

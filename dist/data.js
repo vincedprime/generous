@@ -800,6 +800,18 @@ window.CATALOG = [
     score: 90,
   },
   {
+    name: "Cal.com",
+    category: "Productivity and knowledge",
+    product: "Scheduling and booking",
+    tier: "Free",
+    price: "$0 forever",
+    summary:
+      "1 user; unlimited event types, calendars and bookings; payments, SMS and 100+ integrations; open-source self-hosted edition",
+    source: "https://cal.com/pricing",
+    dimensions: [4, 4, 4, 3, 4],
+    score: 95,
+  },
+  {
     name: "Slack",
     category: "Collaboration",
     product: "Team chat",
