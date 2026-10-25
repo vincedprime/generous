@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const context = { window: {} };
 vm.runInNewContext(
-  await fs.readFile(path.join(root, "dist/data.js"), "utf8"),
+  await fs.readFile(path.join(root, "data.js"), "utf8"),
   context,
 );
 const products = context.window.CATALOG.filter((p) => p.price !== "Exclude");
@@ -31,10 +31,10 @@ const manifest = [];
 const failures = [];
 const previous = JSON.parse(
   await fs
-    .readFile(path.join(root, "dist/logos/sources.json"), "utf8")
+    .readFile(path.join(root, "logos/sources.json"), "utf8")
     .catch(() => "[]"),
 );
-await fs.mkdir(path.join(root, "dist/logos"), { recursive: true });
+await fs.mkdir(path.join(root, "logos"), { recursive: true });
 let cursor = 0;
 await Promise.all(
   Array.from({ length: 6 }, async () => {
@@ -53,7 +53,7 @@ await Promise.all(
         if (!response.headers.get("content-type")?.startsWith("image/"))
           throw Error("Not an image");
         await fs.writeFile(
-          path.join(root, "dist/logos", slug(p) + ".png"),
+          path.join(root, "logos", slug(p) + ".png"),
           bytes,
         );
         manifest.push({
@@ -66,7 +66,7 @@ await Promise.all(
         const prior = previous.find((s) => s.name === p.name);
         if (prior) {
           try {
-            await fs.access(path.join(root, "dist", prior.file));
+            await fs.access(path.join(root, prior.file));
             manifest.push(prior);
             continue;
           } catch {}
@@ -78,7 +78,7 @@ await Promise.all(
 );
 manifest.sort((a, b) => a.name.localeCompare(b.name));
 await fs.writeFile(
-  path.join(root, "dist/logos/sources.json"),
+  path.join(root, "logos/sources.json"),
   JSON.stringify(manifest, null, 2) + "\n",
 );
 console.log(JSON.stringify({ saved: manifest.length, failures }, null, 2));

@@ -15,10 +15,10 @@
 
 ## Catalog updates
 
-- [ ] Added or updated the product in `dist/data.js` using the existing catalog fields.
+- [ ] Added or updated the product in `data.js` using the existing catalog fields.
 - [ ] Linked an official source that confirms the free offer and its limits.
 - [ ] Kept any score clearly an editorial estimate; scores remain draft until the catalog is verified.
-- [ ] If adding a logo, kept it local and recorded its source in `dist/logos/sources.json`.
+- [ ] If adding a logo, kept it local and recorded its source in `logos/sources.json`.
 
 ## Review notes
 

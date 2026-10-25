@@ -27,7 +27,14 @@ jobs:
       - name: Upload static website
         uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: |
+            index.html
+            styles.css
+            app.js
+            data.js
+            og.png
+            og-share.jpg
+            logos/
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
