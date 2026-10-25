@@ -6,12 +6,6 @@ A static free-tier directory with search, category and offer filters, editorial 
 
 Open `index.html` in a browser to preview the site.
 
-## Hosting
-
-GitHub Pages publishes the static site files from the repository root whenever `main` is pushed, through `.github/workflows/pages.yml`. The published address is https://vincedprime.github.io/generous/.
-
-Git identity is configured locally as `vincedprime <vinayparida099@gmail.com>`.
-
 ## Files
 
 - `index.html`: page structure and metadata.
