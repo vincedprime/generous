@@ -107,8 +107,17 @@ footer {
   padding-left: 28px;
 }
 .method-link {
-  margin-left: auto;
   font-size: 14px;
+}
+.topbar .contribute-link {
+  margin-left: auto;
+  border: 1px solid var(--blue);
+  border-radius: 6px;
+  padding: 9px 13px;
+  font-size: 13px;
+}
+.topbar .contribute-link span {
+  margin-left: 5px;
 }
 .method-link span {
   margin-left: 12px;
@@ -512,13 +521,6 @@ footer .brand {
 footer > a:last-child {
   margin-left: auto;
 }
-.contribute-link {
-  color: var(--blue);
-  font-weight: 600;
-}
-.contribute-link span {
-  margin-left: 4px;
-}
 .noscript {
   padding: 30px;
 }
@@ -576,6 +578,10 @@ footer > a:last-child {
   }
   .method-link {
     font-size: 13px;
+  }
+  .topbar .contribute-link {
+    padding: 7px 9px;
+    font-size: 12px;
   }
   .intro {
     padding: 37px 0 30px;
