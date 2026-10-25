@@ -119,6 +119,15 @@ footer {
 .topbar .contribute-link span {
   margin-left: 5px;
 }
+.pr-link {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--blue);
+  white-space: nowrap;
+}
+.pr-link span {
+  margin-left: 3px;
+}
 .method-link span {
   margin-left: 12px;
 }
@@ -580,8 +589,21 @@ footer > a:last-child {
     font-size: 13px;
   }
   .topbar .contribute-link {
-    padding: 7px 9px;
-    font-size: 12px;
+    padding: 6px 7px;
+    font-size: 11px;
+  }
+  .topbar {
+    gap: 8px;
+  }
+  .pr-link {
+    font-size: 11px;
+  }
+  .method-link {
+    font-size: 11px;
+    white-space: nowrap;
+  }
+  .method-link span {
+    margin-left: 3px;
   }
   .intro {
     padding: 37px 0 30px;

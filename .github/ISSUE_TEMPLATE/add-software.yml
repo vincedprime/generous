@@ -8,6 +8,7 @@ body:
     attributes:
       value: |
         Suggest software that has a free tier, free plan, or self-hosted option. Please use official sources where possible. Directory scores are draft editorial estimates and are not verified measurements.
+        Prefer a code change? [Submit a pull request](https://github.com/vincedprime/generous/compare); the PR form includes the contribution checklist.
   - type: input
     id: product
     attributes:
