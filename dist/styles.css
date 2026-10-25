@@ -512,6 +512,13 @@ footer .brand {
 footer > a:last-child {
   margin-left: auto;
 }
+.contribute-link {
+  color: var(--blue);
+  font-weight: 600;
+}
+.contribute-link span {
+  margin-left: 4px;
+}
 .noscript {
   padding: 30px;
 }

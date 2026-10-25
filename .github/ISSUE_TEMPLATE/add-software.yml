@@ -1,0 +1,64 @@
+name: Suggest software with a free tier
+description: Suggest a product for the Generous directory
+title: "[Software]: "
+labels:
+  - suggestion
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest software that has a free tier, free plan, or self-hosted option. Please use official sources where possible. Directory scores are draft editorial estimates and are not verified measurements.
+  - type: input
+    id: product
+    attributes:
+      label: Product name
+      placeholder: Product name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Product website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: For example, Analytics or Developer tools
+    validations:
+      required: true
+  - type: dropdown
+    id: offer-type
+    attributes:
+      label: Offer type
+      options:
+        - Hosted free tier
+        - Self-hosted
+        - Usage-priced with a free allowance
+    validations:
+      required: true
+  - type: textarea
+    id: free-plan
+    attributes:
+      label: What does the free offer include?
+      description: Include meaningful limits, restrictions, or expiration details.
+      placeholder: Describe the free allowance and its key limits.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official pricing or plan details
+      description: Link directly to the source that confirms the free offer.
+      placeholder: https://example.com/pricing
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Optional details that help compare this offer with similar products.
+    validations:
+      required: false
